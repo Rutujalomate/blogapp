@@ -26,7 +26,7 @@
 
   ![Landing Page](https://i.postimg.cc/QtzD1fd9/blogbloggfh.png)
 
-- **Sign-Up & Sign-In Page**
+- **Sign-Up & Sign-In Page***
 
   ![Landing Page](https://i.postimg.cc/8C8f8tpd/blogblog-login.png)
   
