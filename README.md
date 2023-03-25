@@ -30,7 +30,6 @@
 
   ![Landing Page](https://i.postimg.cc/8C8f8tpd/blogblog-login.png)
   
-    ![Landing Page](https://i.postimg.cc/8C8f8tpd/blogblog-login.png)
 
 
 - **Writeblog Page**
