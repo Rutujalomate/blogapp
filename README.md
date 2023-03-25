@@ -22,9 +22,9 @@
 
   ![Landing Page](https://i.postimg.cc/Fzz2VbJ8/homeblog.png)
 
-- **Product Page**
+- **Blog Page**
 
-  ![Landing Page](https://i.postimg.cc/nL22GzsL/Screenshot-911.png)
+  ![Landing Page](https://i.postimg.cc/QtzD1fd9/blogbloggfh.png)
 
 - **Sign-Up & Sign-In Page**
 
@@ -39,7 +39,7 @@
 
 - **User Page**
 
-  ![Landing Page](https://i.postimg.cc/9XbhVFhg/blogbloguser.png)
+  ![Landing Page](https://i.postimg.cc/q0VMszZr/blogbloguser.png)
 
 ---
 
