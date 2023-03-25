@@ -20,7 +20,7 @@
 
 - **Landing Page**
 
-  ![Landing Page](https://i.postimg.cc/nVy477dk/Screenshot-905.png)
+  ![Landing Page](https://i.postimg.cc/Fzz2VbJ8/homeblog.png)
 
 - **Product Page**
 
@@ -28,15 +28,18 @@
 
 - **Sign-Up & Sign-In Page**
 
-  ![Landing Page](https://i.postimg.cc/LXZq6QMM/Screenshot-906.png)
+  ![Landing Page](https://i.postimg.cc/8C8f8tpd/blogblog-login.png)
+  
+    ![Landing Page](https://i.postimg.cc/8C8f8tpd/blogblog-login.png)
 
-- **Cart Page**
 
-  ![Landing Page](https://i.postimg.cc/3rF8CQ1c/Screenshot-907.png)
+- **Writeblog Page**
 
-- **Address Page**
+  ![Landing Page](https://i.postimg.cc/JntZQtPt/blogblogadd.png)
 
-  ![Landing Page](https://i.postimg.cc/05nvKd2g/Screenshot-910.png)
+- **User Page**
+
+  ![Landing Page](https://i.postimg.cc/9XbhVFhg/blogbloguser.png)
 
 ---
 
